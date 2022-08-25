@@ -22,9 +22,4 @@ Above all, the site aims to be a practical resource pool for all actors that are
 
 ## Research
 (let's move research content to it's own repository)
-### An Introduction to SF Taxonomy 
-### an Introduction to SF Taxonomy Mapping
-### An Architecture to SF Taxonomy Mapping
-### A Taxonomy Analysis of ISSB, EBA Pillar 3, EFRAG and SEC
-### An Introduction to Insurance Regulation and Reporting
-### Sustainability and Aviation
+
