@@ -20,6 +20,5 @@ Within one year, we assembled a group of like-minded partners with the commitmen
 ## 2023 and Beyond
 Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to measure, monitor and manage sustainability now and in the future.
 
-## Research
-(let's move research content to it's own repository)
+
 
