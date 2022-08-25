@@ -20,9 +20,9 @@ Within one year, we assembled a group of like-minded partners with the commitmen
 ## 2023 and Beyond
 Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to measure, monitor and manage sustainability now and in the future.
 ## Research
-# An Introduction to SF Taxonomy 
-# an Introduction to SF Taxonomy Mapping
-# An Architecture to SF Taxonomy Mapping
-# A Taxonomy Analysis of ISSB, EBA Pillar 3, EFRAG and SEC
-# An Introduction to Insurance Regulation and Reporting
-# Sustainability and Aviation
+### An Introduction to SF Taxonomy 
+### an Introduction to SF Taxonomy Mapping
+### An Architecture to SF Taxonomy Mapping
+### A Taxonomy Analysis of ISSB, EBA Pillar 3, EFRAG and SEC
+### An Introduction to Insurance Regulation and Reporting
+### Sustainability and Aviation
