@@ -7,7 +7,7 @@ START HERE: OS-SF Taxonomy Project Background and Overview
 ## Background - July, 2021
 The project has its origins in July, 2021 when [First Derivative](https://firstderivative.com/) and [Corlytics](https://www.corlytics.com/) had been researching how best to solve the huge issue of new data requirements for sustainable finance, including the wider ranging domains of Climate Change and ESG. The problem kept returning to "data" in its holistic sense - what data, how to find it, how to make it ready for use by financial services firms. 
 
-We concluded that the logical way forward was to pursue an open-source agenda to create the foundation taxonomies. Such taxonomies are the bedrock of any use case, because without a robust definition of data classification (called "[taxonomies](https://en.wikipedia.org/wiki/Taxonomy)"), nothing downstream can work - all of reporting, lines of business and group functions would fail on their sustainable finance mandates. 
+We concluded that the logical way forward was to pursue an open-source agenda to create the foundation taxonomies. Such taxonomies are the bedrock of any use case, because without a robust definition of data classification (called "[taxonomies](https://en.wikipedia.org/wiki/Taxonomy)"), nothing downstream can work - all reporting function, all lines of businesses and all group functions would fail on their sustainable finance mandates. 
 
 On this premise, we set our vision to develop an open-source project for sustainable finance taxonomies that would help to drive faster changes in sustainable finance for the financial system.
 
