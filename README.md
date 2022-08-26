@@ -1,3 +1,5 @@
+![20220826_OSSFT_Logo_03_Horizontal](https://user-images.githubusercontent.com/112073913/186919868-81739698-17ff-4d71-bf84-fe72bf0a21a7.jpg)
+
 # OS-SF-Taxonomy-Project-Overview
 START HERE: OS-SF Taxonomy Project Background and Overview
 
