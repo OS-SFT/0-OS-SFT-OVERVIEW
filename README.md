@@ -22,7 +22,7 @@ The funding from SF Skillnet allowed First Derivative and Corlytics to embark on
 Within one year, we assembled a group of like-minded partners with the commitment to design, build and maintain a site that we hope will benefit all humankind. We have launched the site in Ireland where the support for sustainable finance is extraordinary from the Irish Government, international organisations and the private sector.
 
 ## The Future - January, 2023 and Beyond
-Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to measure, monitor and manage sustainability now and in the future.
+Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to **measure, monitor and manage all facets of sustainability** now and in the future.
 
 
 
