@@ -18,11 +18,17 @@ As with all projects of this nature, we needed a catalyst. This was provided in 
 
 The funding from SF Skillnet allowed First Derivative and Corlytics to embark on a series of research sprints to develop a plan along with initial research output to set a target for an open-source taxonomy project to benefit all.
 
-## Site Launch - October, 2022 - Ireland-based with a Global Impact
-Within one year, we assembled a group of like-minded partners with the commitment to design, build and maintain a site that we hope will benefit all humankind. We have launched the site in Ireland where the support for sustainable finance is extraordinary from the Irish Government, international organisations and the private sector.
+## Site Launch - October, 2022
+Within one year of our vision and intial funding, we have assembled a group of like-minded partners with the commitment to design, build and maintain a site that we hope will benefit all humankind. We have launched the site from Ireland where the support for sustainable finance is extraordinary from the Irish Government, international organisations and the private sector. Now, the Ireland-based project with expand to have a global impact with contributions from partners in all jurisdictions.
 
-## The Future - January, 2023 and Beyond
+## The Future - January, 2023+
 Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to **measure, monitor and manage all facets of sustainability** now and in the future.
 
+## Becoming a Partner
+For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the vlaue they may bring to the project. There are two types of partner offered:
+- Contributing Partner: you can immediately bring your contribution to the project;
+- Observing Partner: you can follow the project closely by havign access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
 
+# If you are interested in discussing becoming a partner:
+- [please follow this link - insert link]
 
