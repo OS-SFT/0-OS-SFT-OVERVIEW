@@ -9,7 +9,7 @@ The project has its origins in July, 2021 when [First Derivative](https://firstd
 
 We concluded that the logical way forward was to pursue an open-source agenda to create the foundation taxonomies. Such taxonomies are the bedrock of any use case, because without a robust definition of data classification (called "[taxonomies](https://en.wikipedia.org/wiki/Taxonomy)"), nothing downstream can work - all of reporting, lines of business and group functions would fail on their sustainable finance mandates. 
 
-On this premise, we set our vision to develop an open-source project for sustainable finance taxonommies that would help to drive faster changes in sustainable finance for the financial system.
+On this premise, we set our vision to develop an open-source project for sustainable finance taxonomies that would help to drive faster changes in sustainable finance for the financial system.
 
 Following on from this vision, and inspired by the first global project for open-source climate risk modelling, [OS-Climate](https://os-climate.org/), we embarked on a mission to gather like-minded collaborators to create a critical mass of partners to be able to launch this site.
 
