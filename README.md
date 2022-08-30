@@ -52,3 +52,6 @@ See below for these mappings, which have been modelled using the data lineage to
 * [ISSB v SASB](https://github.com/FD-SustainableFinance/ISSB-v-SASB/tree/main)
 * [ISSB v SEC](https://github.com/FD-SustainableFinance/ISSB-v-SEC/tree/main)
 * [ISSB v EFRAG](https://github.com/FD-SustainableFinance/ISSB-v-EFRAG/tree/main)
+
+## Use Cases - Point Solutions
+* [Irish Banks EBA Pillar 3 Reporting](https://github.com/FD-SustainableFinance/Irish-Banks-EBA-Pillar-3-Reporting/tree/main)
