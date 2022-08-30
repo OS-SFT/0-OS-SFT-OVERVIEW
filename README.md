@@ -55,3 +55,19 @@ See below for these mappings, which have been modelled using the data lineage to
 
 ## Use Cases - Point Solutions
 * [Irish Banks EBA Pillar 3 Reporting](https://github.com/FD-SustainableFinance/Irish-Banks-EBA-Pillar-3-Reporting/tree/main)
+
+## Use Cases - End-to-End Solutions
+[insert project]
+
+## Regulatory Taxonomy Samples e.g. EBA Pillar 3, ESG Risk Disclosure CRR 144a, Source Source: Corlytics Date Stamp: 01-Aug-2022
+[insert project]
+## Other
+# OS-SF Taxonomy Research 
+
+
+# Partners
+## Contributing Partners 
+[Placeholder - add comment]
+* [First Derivative - Services & Consulting Partner](https://github.com/FD-SustainableFinance/First-Derivative/tree/main)
+* [Corlytics](https://github.com/FD-SustainableFinance/Corlytics/tree/main)
+* [Solidatus](https://github.com/FD-SustainableFinance/Solidatus/tree/main)
