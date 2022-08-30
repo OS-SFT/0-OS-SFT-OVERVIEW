@@ -34,7 +34,7 @@ For the moment, we are keeping it simple, with no fees and with candidate partne
 # If you are interested in discussing becoming a partner:
 - [please follow this link - insert link]
 
-# OS-SF Taxonomy Projects Overview
+# OS-SF Taxonomy Projects 
 ## Taxonomy
 
 Regulatory taxonomies have been provided by OS-SFT Componentry Partner, Corlytics. See below for these taxonomies:
