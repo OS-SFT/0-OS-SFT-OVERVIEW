@@ -69,7 +69,7 @@ See below for these mappings, which have been modelled using the data lineage to
 * [An Introduction to Insurance /regulation and Reporting](https://github.com/FD-SustainableFinance/An-Introduction-to-Insurance-Regulation-and-Reporting)
 * [Green Asset Ratio](https://github.com/FD-SustainableFinance/Green-Asset-Ratio)
 * [Sustainable Finance Disclosure Regulation](https://github.com/FD-SustainableFinance/Sustainable-Finance-Disclosure-Regulation)
-* [Aviation and sustainability](https://github.com/FD-SustainableFinance/Aviation-and-Sustainability)
+* [Aviation and Sustainability](https://github.com/FD-SustainableFinance/Aviation-and-Sustainability)
 
 # Partners
 ## Contributing Partners 
