@@ -77,9 +77,10 @@ See below for these mappings, which have been modelled using the data lineage to
 * [First Derivative - Services & Consulting Partner](https://github.com/FD-SustainableFinance/First-Derivative/tree/main)
 * [Corlytics](https://github.com/FD-SustainableFinance/Corlytics/tree/main)
 * [Solidatus](https://github.com/FD-SustainableFinance/Solidatus/tree/main)
-* Gamma - Componentry Partner
-* MereMer - Componentry Partner
-* Sust Global - Componentry Partner
+* [Gamma - Componentry Partner](https://github.com/FD-SustainableFinance/Gamma)
+* [MereMer - Componentry Partner](https://github.com/FD-SustainableFinance/MereMer)
+* [Sust Global - Componentry Partner](https://github.com/FD-SustainableFinance/Sust-Global)
+* [Airbus - Componentry Partner](https://github.com/FD-SustainableFinance/Airbus/tree/main)
 
 # Observing Partners
 
