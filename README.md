@@ -3,7 +3,7 @@
 # OS-SF-Taxonomy-Project-Overview
 START HERE: OS-SF Taxonomy Project Background and Overview
 
-## Welcome to the first global project for
+## Welcome to the First Global Project for
 # Open-Source Sustainable Finance Taxonomy (OS-SFT)
 
 ## Background - July, 2021
