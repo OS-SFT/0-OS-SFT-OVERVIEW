@@ -47,8 +47,8 @@ Mapping exercises have been completed to identify crossovers and differences bet
 We see a future where end-to-end, multi-nodal taxonomy mapping becomes central to all operating models for data, risk, controls and reporting.
 
 See below for these mappings, which have been modelled using the data lineage tool provided by OS-SFT Componentry Partner, [Solidatus](https://trial.solidatus.com/viewer/62cc23ee183906050cfcbeae):
-* ISSB v TCFD
-* ISSB v EBA Pillar 3
-* ISSB v SASB
-* ISSB v SEC
-* ISSB v EFRAG
+* [ISSB v TCFD](https://github.com/FD-SustainableFinance/ISSB-v-TCFD/tree/main)
+* [ISSB v EBA Pillar 3](https://github.com/FD-SustainableFinance/ISSB-v-EBA-Pillar-3/tree/main)
+* [ISSB v SASB](https://github.com/FD-SustainableFinance/ISSB-v-SASB/tree/main)
+* [ISSB v SEC](https://github.com/FD-SustainableFinance/ISSB-v-SEC/tree/main)
+* [ISSB v EFRAG](https://github.com/FD-SustainableFinance/ISSB-v-EFRAG/tree/main)
