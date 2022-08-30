@@ -92,9 +92,9 @@ See below for these mappings, which have been modelled using the data lineage to
 * [Sust Global - Componentry Partner](https://github.com/FD-SustainableFinance/Sust-Global)
 * [Airbus - Componentry Partner](https://github.com/FD-SustainableFinance/Airbus/tree/main)
 
-# Observing Partners
+## Observing Partners
 
-## [Partner Name - Partner Type]
+### [Partner Name - Partner Type]
 
 [Summary]
 
