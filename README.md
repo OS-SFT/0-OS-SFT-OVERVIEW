@@ -63,7 +63,13 @@ See below for these mappings, which have been modelled using the data lineage to
 [insert project]
 ## Other
 # OS-SF Taxonomy Research 
-
+[Placeholder - Introduction] 
+* [An Introduction to SF Taxonomy](https://github.com/FD-SustainableFinance/An-Introduction-to-SF-Taxonomy)
+* [A Taxonomy Analysis of ISSB, TCFD, EBA Pillar 3, SASB, EFRAG and SEC](https://github.com/FD-SustainableFinance/A-Taxonomy-Analysis-of-ISSB-EBA-Pillar-3-TCFD-SASB-EFRAG-and-SEC)
+* [An Introduction to Insurance /regulation and Reporting](https://github.com/FD-SustainableFinance/An-Introduction-to-Insurance-Regulation-and-Reporting)
+* [Green asset Ratio](https://github.com/FD-SustainableFinance/Green-Asset-Ratio)
+* [Sustainable Finance Disclosure Regulation](https://github.com/FD-SustainableFinance/Sustainable-Finance-Disclosure-Regulation)
+* [Aviation and sustainability](https://github.com/FD-SustainableFinance/Aviation-and-Sustainability)
 
 # Partners
 ## Contributing Partners 
