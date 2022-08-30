@@ -31,7 +31,7 @@ For the moment, we are keeping it simple, with no fees and with candidate partne
 - Contributing Partner: you can immediately bring your contribution to the project;
 - Observing Partner: you can follow the project closely by havign access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
 
-# If you are interested in discussing becoming a partner:
+## If you are interested in discussing becoming a partner:
 - [please follow this link - insert link]
 
 # OS-SF Taxonomy Projects 
