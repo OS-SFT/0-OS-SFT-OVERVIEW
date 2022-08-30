@@ -34,3 +34,4 @@ For the moment, we are keeping it simple, with no fees and with candidate partne
 # If you are interested in discussing becoming a partner:
 - [please follow this link - insert link]
 
+# OS-SF Taxonomy Projects Overview
