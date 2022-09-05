@@ -1,9 +1,9 @@
 ![20220826_OSSFT_Logo_03_Horizontal](https://user-images.githubusercontent.com/112073913/186922030-c769c385-743a-4e91-a5c2-5126d02709ff.jpg)
 
 ```diff
-! DRAFT for PEER REVIEW prior to Publication as FINAL = Ready for Peer Review
+! STATUS = Ready for Peer Review
 ```
-
+**KEY**
 ```diff
 + text in green = Ready to Publish
 ! text in orange = Ready for Peer Review
