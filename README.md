@@ -42,7 +42,7 @@ Within one year of our vision and intial funding, we had assembled a group of li
 Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to **measure, monitor and manage all facets of sustainability** now and in the future.
 
 ## Becoming a Partner
-For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the vlaue they may bring to the project. There are two types of partner offered:
+For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the value they may bring to the project. There are two types of partner offered:
 - Contributing Partner: you can immediately bring your contribution to the project;
 - Observing Partner: you can follow the project closely by havign access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
 
