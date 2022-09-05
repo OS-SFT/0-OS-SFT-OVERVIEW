@@ -47,4 +47,4 @@ For the moment, we are keeping it simple, with no fees and with candidate partne
 - Observing Partner: you can follow the project closely by havign access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
 
 ## If you are interested in discussing becoming a partner:
-- [please follow this link - insert link]
+- [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/l5l-Partners-Overview)
