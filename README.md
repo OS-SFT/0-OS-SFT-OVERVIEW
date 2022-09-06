@@ -22,7 +22,7 @@ START HERE: OS-SF Taxonomy Project Background and Overview
 ## Background - July, 2021
 The project has its origins in July, 2021 when [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) of [First Derivative](https://firstderivative.com/) and [John Byrne](https://www.linkedin.com/in/john-byrne-943109/) of [Corlytics](https://www.corlytics.com/) were researching how best to solve the huge issue of new data requirements for sustainable finance (**SF**), including the domains of Climate Change and ESG. The problem kept returning to "data" in its holistic sense - what data, how is it defined, how many types of data, how to find it, how to make it ready for use by financial services firms ... on and on.
 
-We understood from prior data problems that the only logical way forward was to give this overwhelming data problem some boundary conditions so that it was more manageable. To do this, we decided to focus on an open-source agenda to provide access to the foundation taxonomies that would enable everyone to make progress to developing and integrating these new data models. Moeover, we decided to do it in small, incremental steps - to build a library of taxonomies for all to use.
+We understood from prior data problems that the only logical way forward was to give this overwhelming data problem some boundary conditions so that it was more manageable. To do this, we decided to focus on an open-source agenda to provide access to the foundation taxonomies that would enable everyone to make progress to developing and integrating these new data models. Moreover, we decided to do it in small, incremental steps - to build a library of taxonomies for all to use.
 
 Such taxonomies are the bedrock of any use case, or business problem, because without a robust, scientific definition of data classification (called "[taxonomies](https://en.wikipedia.org/wiki/Taxonomy)"), nothing downstream can work - all reporting functions, all lines of business and all group functions would fail on their **sustainable finance mandates** without this foundation. 
 
@@ -36,7 +36,7 @@ As with all projects of this nature, we needed a catalyst. This was provided in 
 The funding from SF Skillnet allowed First Derivative and Corlytics to embark on a series of research sprints to develop a plan along with initial research output to set a target for an open-source taxonomy project to benefit all.
 
 ## Site Launch - October, 2022
-Within one year of our vision and intial funding, we had assembled a group of like-minded partners with the commitment to design, build and maintain a site that we hope will benefit all humankind. We launched the site from Ireland where the support for sustainable finance is extraordinary from the Irish Government, international organisations and the private sector. The site immediately expanded to have a global impact with contributions from partners in multiple jurisdictions.
+Within one year of our vision and initial funding, we had assembled a group of like-minded partners with the commitment to design, build and maintain a site that we hope will benefit all humankind. We launched the site from Ireland where the support for sustainable finance is extraordinary from the Irish Government, international organisations and the private sector. The site immediately expanded to have a global impact with contributions from partners in multiple jurisdictions.
 
 ## The Future - January, 2023+
 Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to **measure, monitor and manage all facets of sustainability** now and in the future.
@@ -44,7 +44,7 @@ Above all, the site aims to be a practical resource pool for all actors that are
 ## Becoming a Partner
 For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the value they may bring to the project. There are two types of partner offered:
 - Contributing Partner: you can immediately bring your contribution to the project;
-- Observing Partner: you can follow the project closely by havign access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
+- Observing Partner: you can follow the project closely by having access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
 
 ## If you are interested in discussing becoming a partner:
 - [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/l5l-Partners-Overview)
