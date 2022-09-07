@@ -13,11 +13,16 @@
 # text in grey = notes
 ```
 
-# OS-SF-Taxonomy Project - Overview [LANDING PAGE]
-START HERE: OS-SF Taxonomy Project Background and Overview
-
 ## Welcome to the First Global Project for
-# Open-Source Sustainable Finance Taxonomy (OS-SFT)
+# Open-Source Sustainable Finance Taxonomy
+
+![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
+
+
+
+
+
+
 
 ## Background - July, 2021
 The project has its origins in July, 2021 when [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) of [First Derivative](https://firstderivative.com/) and [John Byrne](https://www.linkedin.com/in/john-byrne-943109/) of [Corlytics](https://www.corlytics.com/) were researching how best to solve the huge issue of new data requirements for sustainable finance (**SF**), including the domains of Climate Change and ESG. The problem kept returning to "data" in its holistic sense - what data, how is it defined, how many types of data, how to find it, how to make it ready for use by financial services firms ... on and on.
