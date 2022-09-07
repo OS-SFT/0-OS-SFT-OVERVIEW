@@ -36,7 +36,9 @@ Below is futher informaiton on the structure of this site and the history of OS-
 
 I hope you find this an enjoyable and valuable resource on your sustainability journey!
 
-## Best regards, [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT
+## Best regards,
+![image](https://user-images.githubusercontent.com/112073913/188847806-b1d055d2-b937-4fff-b78b-def9dd9bc50b.png)
+[Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT
 
 # Structure of the GitHub Site
 - [0] OS-SFT OVERVIEW (this page)
