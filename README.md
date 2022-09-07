@@ -12,7 +12,7 @@
 # text in grey = notes
 ```
 
-## Welcome to the First Global Project for Open-Source Sustainable Finance Taxonomy
+## Welcome to the First Global Project for Open-Source Sustainable Finance Taxonomy ("OS-SFT")
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
 
@@ -83,5 +83,3 @@ For the moment, we are keeping it simple, with no fees and with candidate partne
 
 ## If you are interested in discussing becoming a partner:
 - [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/l5l-Partners-Overview)
-
-![20220907_OS-SFT_Logo_OS-SF TAXONOMY](https://user-images.githubusercontent.com/112073913/188932541-776c60c2-851b-48bf-b564-96e83812512f.jpg)
