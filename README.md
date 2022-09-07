@@ -46,9 +46,10 @@ I hope you find this an enjoyable and valuable resource on your sustainability j
 - [2] [TAXONOMY TOOLS](https://github.com/FD-SustainableFinance/l2l-TAXONOMY-TOOLS)
 - [3] [TAXONOMY RESEARCH](https://github.com/FD-SustainableFinance/l3l-TAXONOMY-RESEARCH)
 - [4] [TAXONOMY USE CASES](https://github.com/FD-SustainableFinance/l4l-TAXONOMY-USE-CASES)
-- [5] [PARTNERS](https://github.com/FD-SustainableFinance/l5l-PARTNERS)
-- [6] [NEWS](https://github.com/FD-SustainableFinance/l6l-NEWS)
-- [7] [TAXONOMY BACKLOG](https://github.com/FD-SustainableFinance/l7l-TAXONOMY-BACKLOG)
+- [5] [TAXONOMY BACKLOG](https://github.com/FD-SustainableFinance/l5l-TAXONOMY-BACKLOG)
+- [6] [PARTNERS](https://github.com/FD-SustainableFinance/l6l-PARTNERS)
+- [7] [NEWS](https://github.com/FD-SustainableFinance/l7l-NEWS)
+
 
 # History of OS-SFT 
 
