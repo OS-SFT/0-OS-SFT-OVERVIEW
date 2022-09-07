@@ -83,3 +83,5 @@ For the moment, we are keeping it simple, with no fees and with candidate partne
 
 ## If you are interested in discussing becoming a partner:
 - [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/l5l-Partners-Overview)
+
+![20220907_OS-SFT_Logo_OS-SF TAXONOMY](https://user-images.githubusercontent.com/112073913/188932541-776c60c2-851b-48bf-b564-96e83812512f.jpg)
