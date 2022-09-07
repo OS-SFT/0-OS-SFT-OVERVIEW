@@ -74,8 +74,8 @@ Above all, the site aims to be a practical resource pool for all actors that are
 
 ## Becoming a Partner
 For the moment, we are keeping it simple, with no fees and with candidate partners assessed for membership based on the value they may bring to the project. There are two types of partner offered:
-- Contributing Partner: you can immediately bring your contribution to the project;
-- Observing Partner: you can follow the project closely by having access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
+- **Contributing Partner**: you can immediately bring your contribution to the project;
+- **Observing Partner**: you can follow the project closely by having access to working groups and special update sessions and, if it suits your organisation, you can convert to a Contributing Partner if and when you feel ready.
 
 ## If you are interested in discussing becoming a partner:
 - [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/l5l-Partners-Overview)
