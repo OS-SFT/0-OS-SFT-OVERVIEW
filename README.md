@@ -40,9 +40,9 @@ I hope you find this an enjoyable and valuable resource on your sustainability j
 ### Best regards, [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT
 
 ## Structure of the GitHub Site
-- [0] OS-SFT OVERVIEW - this page
-- [1] TAXONOMY FILES
-- [2] TAXONOMY TOOLS
+- [0] OS-SFT OVERVIEW
+- [1] [TAXONOMY FILES](https://github.com/FD-SustainableFinance/l1l-TAXONOMY-FILES)
+- [2] [TAXONOMY TOOLS](https://github.com/FD-SustainableFinance/l2l-TAXONOMY-TOOLS)
 - [3] TAXONOMY RESEARCH
 - [4] TAXONOMY USE CASES
 - [5] [PARTNERS](https://github.com/FD-SustainableFinance/l5l-PARTNERS)
