@@ -11,12 +11,11 @@
 # text in grey = notes
 ```
 
-## Welcome to the First Global Project for
-# Open-Source Sustainable Finance Taxonomy
+## Welcome to the First Global Project for Open-Source Sustainable Finance Taxonomy
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
 
-## Objective - Taxonomy Made Simple
+# Objective - Taxonomy Made Simple
 The objective of the project is to provide the marketplace with the following open-source, practical tools to advance user implementation of sustainable finance data systems into their business operating models for new and evolving taxonomy frameworks, standards, regulations & laws:
 
 1. **TAXONOMY FILES**: Library of Taxonomy Files - in human and machine readable format
@@ -37,9 +36,9 @@ Below is futher informaiton on the structure of this site and the history of OS-
 
 I hope you find this an enjoyable and valuable resource on your sustainability journey!
 
-### Best regards, [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT
+## Best regards, [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT
 
-## Structure of the GitHub Site
+# Structure of the GitHub Site
 - [0] OS-SFT OVERVIEW (this page)
 - [1] [TAXONOMY FILES](https://github.com/FD-SustainableFinance/l1l-TAXONOMY-FILES)
 - [2] [TAXONOMY TOOLS](https://github.com/FD-SustainableFinance/l2l-TAXONOMY-TOOLS)
