@@ -18,7 +18,13 @@
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
 
+## Objective
+The objective of the project is to provide the marketplace with the following open-source, practical tools to advance user adoption of sustainable finance data models - frameworks, standards, regualtions & laws - in their business operating models:
 
+1. TAXONOMY FILES: Library of Taxonomy Files - in human and machine readable format
+2. TAXONOMY TOOLS: Suite of Interactive Tools to Explore and Compare Taxonomy Files - for human interaction
+3. TAXONOMY RESEARCH: Library of Reserach Papers proving findings, insight and recommendations on evolving Taxonomies
+4. TAXONOMY USER CASES: Library of Real World Use Cases that explain how to solve specific business problems
 
 
 
