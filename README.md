@@ -25,7 +25,7 @@ The objective of the project is to provide the marketplace with the following **
 4. **TAXONOMY USE CASES**: Library of Real World Use Cases that explain how to solve specific business problems
 
 ## Example: TCFD, EBA and ISSB
-1. **TAXONOMY FILES**: TCFD (Framework), EBA Pillar 3 (Regulation), ISSB (Standard)
+1. **TAXONOMY FILES**: TCFD (Framework); EBA Pillar 3 (Regulation); ISSB (Standard)
 2. **TAXONOMY TOOLS**: Pairwise Taxonomy Mappings for TCFD-EBA; TCF-ISSB; EBA-ISSB
 3. **TAXONOMY RESEARCH**: Research Paper presenting findings, insights and recommendations of the Mappings Analysis
 4. **TAXONOMY USE CASE**: Use Case of End-to-End Lending Workflow under TCFD-EBA-ISSB, where:
