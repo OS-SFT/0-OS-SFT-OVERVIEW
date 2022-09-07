@@ -1,3 +1,5 @@
+![20220826_OSSFT_Logo_03_Horizontal](https://user-images.githubusercontent.com/112073913/186922030-c769c385-743a-4e91-a5c2-5126d02709ff.jpg)
+
 **PAGE STATUS**
 ```diff
 ! Ready for Peer Review
@@ -22,16 +24,33 @@ The objective of the project is to provide the marketplace with the following op
 1. **TAXONOMY FILES**: Library of Taxonomy Files - in human and machine readable format
 2. **TAXONOMY TOOLS**: Library of Interactive Tools to Explore and Compare Taxonomy Files - for human interaction
 3. **TAXONOMY RESEARCH**: Library of Reserach Papers proving findings, insight and recommendations on evolving Taxonomies
-4. **TAXONOMY USER CASES**: Library of Real World Use Cases that explain how to solve specific business problems
+4. **TAXONOMY USE CASES**: Library of Real World Use Cases that explain how to solve specific business problems
 
 ## Example: TCFD, EBA and ISSB
 1. **TAXONOMY FILES**: TCFD (Framework), EBA Pillar 3 (Regulation), ISSB (Standard)
 2. **TAXONOMY TOOLS**: Pairwise Taxonomy Mappings for TCFD-EBA; TCF-ISSB; EBA-ISSB
 3. **TAXONOMY RESEARCH**: Research Paper presenting findings, insights and recommendations of the Mappings Analysis
-4. **TAXONOMY USER CASE**: Use Case of End-to-End Lending Workflow under TCFD-EBA-ISSB, where:
+4. **TAXONOMY USE CASE**: Use Case of End-to-End Lending Workflow under TCFD-EBA-ISSB, where:
     - TCFD is used as part of the Decision Criteria by a Line-of-Business for the Lending;
     - EBA Pillar 3 is used for Madatory ESG Risk Disclosure for the Lending; and,
     - ISSB is used as the Accounting Standard under IFRS for Financial Statements Balance Sheet Reporting for the Lending
+
+Below is futher informaiton on the structure of this site and the history of OS-SFT.
+
+I hope you find this an enjoyable and valuable resource on your sustainability journey!
+
+### Best regards, [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT
+
+## Structure of the GitHub Site
+- [0] OS-SFT OVERVIEW - this page
+- [1] TAXONOMY FILES
+- [2] TAXONOMY TOOLS
+- [3] TAXONOMY RESEARCH
+- [4] TAXONOMY USE CASES
+- [5] PARTNERS
+- [6] NEWS
+
+# History of OS-SFT 
 
 ## Background - July, 2021
 The project has its origins in July, 2021 when [Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/) of [First Derivative](https://firstderivative.com/) and [John Byrne](https://www.linkedin.com/in/john-byrne-943109/) of [Corlytics](https://www.corlytics.com/) were researching how best to solve the huge issue of new data requirements for sustainable finance (**SF**), including the domains of Climate Change and ESG. The problem kept returning to "data" in its holistic sense - what data, how is it defined, how many types of data, how to find it, how to make it ready for use by financial services firms ... on and on.
