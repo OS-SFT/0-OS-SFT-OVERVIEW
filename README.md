@@ -32,7 +32,7 @@ The objective of the project is to provide the marketplace with the following **
     - EBA Pillar 3 is used for Madatory ESG Risk Disclosure for the Lending; and,
     - ISSB is used as the Accounting Standard under IFRS for Financial Statements Balance Sheet Reporting for the Lending
 
-Below is futher informaiton on the structure of this site and the history of OS-SFT.
+Below is futher informatIon on the structure of this site and the history of OS-SFT.
 
 I hope you find this an enjoyable and valuable resource on your sustainability journey!
 
