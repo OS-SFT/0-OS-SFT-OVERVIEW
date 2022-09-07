@@ -44,7 +44,7 @@ I hope you find this an enjoyable and valuable resource on your sustainability j
 - [1] [TAXONOMY FILES](https://github.com/FD-SustainableFinance/l1l-TAXONOMY-FILES)
 - [2] [TAXONOMY TOOLS](https://github.com/FD-SustainableFinance/l2l-TAXONOMY-TOOLS)
 - [3] [TAXONOMY RESEARCH](https://github.com/FD-SustainableFinance/l3l-TAXONOMY-RESEARCH)
-- [4] TAXONOMY USE CASES
+- [4] [TAXONOMY USE CASES](https://github.com/FD-SustainableFinance/l4l-TAXONOMY-USE-CASES)
 - [5] [PARTNERS](https://github.com/FD-SustainableFinance/l5l-PARTNERS)
 - [6] NEWS
 
