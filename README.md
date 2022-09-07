@@ -45,7 +45,7 @@ I hope you find this an enjoyable and valuable resource on your sustainability j
 - [2] TAXONOMY TOOLS
 - [3] TAXONOMY RESEARCH
 - [4] TAXONOMY USE CASES
-- [5] PARTNERS
+- [5] [PARTNERS](https://github.com/FD-SustainableFinance/l5l-PARTNERS)
 - [6] NEWS
 
 # History of OS-SFT 
