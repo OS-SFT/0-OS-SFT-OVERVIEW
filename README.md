@@ -30,10 +30,10 @@ The objective of the project is to provide the marketplace with the following **
 3. **TAXONOMY RESEARCH**: Research Paper presenting findings, insights and recommendations of the Mappings Analysis
 4. **TAXONOMY USE CASE**: Use Case of End-to-End Lending Workflow under TCFD-EBA-ISSB, where:
     - TCFD is used as part of the Decision Criteria by a Line-of-Business for the Lending;
-    - EBA Pillar 3 is used for Madatory ESG Risk Disclosure for the Lending; and,
+    - EBA Pillar 3 is used for Mandatory ESG Risk Disclosure for the Lending; and,
     - ISSB is used as the Accounting Standard under IFRS for Financial Statements Balance Sheet Reporting for the Lending
 
-Below is futher informatIon on the structure of this site and the history of OS-SFT.
+Below is further informatIon on the structure of this site and the history of OS-SFT.
 
 I hope you find this an enjoyable and valuable resource on your sustainability journey!
 
