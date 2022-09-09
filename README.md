@@ -26,7 +26,7 @@ The objective of the project is to provide the marketplace with the following **
 
 ## Example: TCFD, EBA and ISSB
 1. **TAXONOMY FILES**: TCFD (Framework); EBA Pillar 3 (Regulation); ISSB (Standard)
-2. **TAXONOMY TOOLS**: Pairwise Taxonomy Mappings for TCFD-EBA; TCF-ISSB; EBA-ISSB
+2. **TAXONOMY TOOLS**: Pairwise Taxonomy Mappings for TCFD-EBA; TCFD-ISSB; EBA-ISSB
 3. **TAXONOMY RESEARCH**: Research Paper presenting findings, insights and recommendations of the Mappings Analysis
 4. **TAXONOMY USE CASE**: Use Case of End-to-End Lending Workflow under TCFD-EBA-ISSB, where:
     - TCFD is used as part of the Decision Criteria by a Line-of-Business for the Lending;
