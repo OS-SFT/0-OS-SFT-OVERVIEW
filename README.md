@@ -21,7 +21,7 @@ The objective of the project is to provide the marketplace with the following **
 
 1. **TAXONOMY FILES**: Library of Taxonomy Files - in human and machine readable format
 2. **TAXONOMY TOOLS**: Library of Interactive Tools to Explore and Compare Taxonomy Files - for human interaction
-3. **TAXONOMY RESEARCH**: Library of Research Papers proving findings, insight and recommendations on evolving Taxonomies
+3. **TAXONOMY RESEARCH**: Library of Research Papers proving findings, insights and recommendations on evolving Taxonomies
 4. **TAXONOMY USE CASES**: Library of Real World Use Cases that explain how to solve specific business problems
 
 ## Example: TCFD, EBA and ISSB
