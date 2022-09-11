@@ -73,7 +73,7 @@ The funding from SF Skillnet allowed First Derivative and Corlytics to embark on
 ## Site Launch - October, 2022
 Within one year of our vision and initial funding, we had assembled a group of like-minded partners with the commitment to design, build and maintain a site that we hope will benefit all humankind. We launched the site from Ireland where the support for sustainable finance is extraordinary from the Irish Government, international organisations and the private sector. The site immediately expanded to have a global impact with contributions from partners in multiple jurisdictions.
 
-## Partnership with SF COE
+## Partnership with SF COE - October, 2022
 ```diff
 - Placeholder - add content once agreed with SFI
 ```
