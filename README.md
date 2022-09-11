@@ -39,8 +39,7 @@ I hope you find this an enjoyable and valuable resource on your sustainability j
 
 ## Best regards,
 ![image](https://user-images.githubusercontent.com/112073913/188847806-b1d055d2-b937-4fff-b78b-def9dd9bc50b.png)
-![20220907_OS-SFT_Logo_OS-SFT_Small](https://user-images.githubusercontent.com/112073913/189521556-a3c1ac50-8383-4eb3-85b0-193ccc2d1e56.jpg)
-[Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT
+![20220907_OS-SFT_Logo_OS-SFT_Small](https://user-images.githubusercontent.com/112073913/189521556-a3c1ac50-8383-4eb3-85b0-193ccc2d1e56.jpg) **[Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT**
 
 # Structure of the GitHub Site
 - [0] OS-SFT OVERVIEW (this page)
