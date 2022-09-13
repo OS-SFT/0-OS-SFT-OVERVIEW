@@ -80,7 +80,7 @@ Within one year of our vision and initial funding, we had assembled a group of l
 Example TEXT:
 In October, 2021, the Irish Government announced the creation of the Sustainable Finance Centre of Excellence (SF COE) in collaboration with the United Nations - [see Press release](https://www.sustainablefinance.ie/sf-roadmap/). The SF COE went live 17-Oct-2022 - [see SF COE Live Press release](insert URL here) as part of [CFWI-2022](https://www.climatefinanceweek.ie/) with a wide range of founder members - [see SF COE founder members](insert URL here). 
 
-A critical element of the SF COE was to have a practical set of resources for taxonomy. Therefore, the OS-SFT agreed to partner with the SF COE to be that founding technical resource to help drive innovation across all aspects of the SF Roadmap, including data resources and fintech solutiuon componentry.
+A critical element of the SF COE was to have a practical set of resources for taxonomy. Therefore, the OS-SFT agreed to partner with the SF COE to be that founding technical resource to help drive innovation across all aspects of the SF Roadmap, including data resources and fintech solution componentry.
 
 ## The Future - January, 2023+
 Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to **measure, monitor and manage all facets of sustainability** now and in the future.
