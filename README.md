@@ -35,11 +35,8 @@ The objective of the project is to provide the marketplace with the following **
 
 Below is further informatIon on the structure of this site and the history of OS-SFT.
 
-I hope you find this an enjoyable and valuable resource on your sustainability journey!
-
-## Best regards,
-![image](https://user-images.githubusercontent.com/112073913/188847806-b1d055d2-b937-4fff-b78b-def9dd9bc50b.png)
-![20220907_OS-SFT_Logo_OS-SFT_Small](https://user-images.githubusercontent.com/112073913/189521556-a3c1ac50-8383-4eb3-85b0-193ccc2d1e56.jpg) **[Johnny Mattimore](https://www.linkedin.com/in/johnny-d-mattimore-082969136/), Founder of OS-SFT**
+We hope you find this an enjoyable and valuable resource on your sustainability journey!
+--
 
 # Structure of the GitHub Site
 - [0] OS-SFT OVERVIEW (this page)
@@ -72,15 +69,6 @@ The funding from SF Skillnet allowed First Derivative and Corlytics to embark on
 
 ## Site Launch - October, 2022
 Within one year of our vision and initial funding, we had assembled a group of like-minded partners with the commitment to design, build and maintain a site that we hope will benefit all humankind. We launched the site from Ireland where the support for sustainable finance is extraordinary from the Irish Government, international organisations and the private sector. The site immediately expanded to have a global impact with contributions from partners in multiple jurisdictions.
-
-## Partnership with SF COE - October, 2022
-```diff
-- Placeholder - add content once agreed with SFI
-```
-Example TEXT:
-In October, 2021, the Irish Government announced the creation of the Sustainable Finance Centre of Excellence (SF COE) in collaboration with the United Nations - [see Press release](https://www.sustainablefinance.ie/sf-roadmap/). The SF COE went live 17-Oct-2022 - [see SF COE Live Press release](insert URL here) as part of [CFWI-2022](https://www.climatefinanceweek.ie/) with a wide range of founder members - [see SF COE founder members](insert URL here). 
-
-A critical element of the SF COE was to have a practical set of resources for taxonomy. Therefore, the OS-SFT agreed to partner with the SF COE to be that founding technical resource to help drive innovation across all aspects of the SF Roadmap, including data resources and fintech solution componentry.
 
 ## The Future - January, 2023+
 Above all, the site aims to be a practical resource pool for all actors that are active in integrating sustainable finance into the financial services sector. So, the objective for 2023 and beyond, is to keep true to our foundation principles, following our “North Star” of always providing practical tools to create the taxonomy for the data that is necessary to **measure, monitor and manage all facets of sustainability** now and in the future.
