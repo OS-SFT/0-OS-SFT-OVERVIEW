@@ -50,7 +50,7 @@ I hope you find this an enjoyable and valuable resource on your sustainability j
 - [5] [TAXONOMY BACKLOG](https://github.com/FD-SustainableFinance/l5l-TAXONOMY-BACKLOG)
 - [6] [PARTNERS](https://github.com/FD-SustainableFinance/l6l-PARTNERS)
 - [7] [NEWS](https://github.com/FD-SustainableFinance/l7l-NEWS)
-
+- [8] [KEY CONTACTS](https://github.com/FD-SustainableFinance/l8l-KEY-CONTACTS)
 
 # History of OS-SFT 
 
