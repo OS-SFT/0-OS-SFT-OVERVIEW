@@ -60,7 +60,7 @@ Such taxonomies are the bedrock of any use case, or business problem, because wi
 
 On this premise, we set our **vision** to develop an **open-source project for sustainable finance taxonomies** that would help to **drive faster changes** in sustainable finance across the entire global financial system.
 
-Following on from this vision, and inspired by the first global project for open-source **climate risk modelling**, [OS-Climate](https://os-climate.org/), we embarked on a mission to gather like-minded collaborators to create a critical mass of partners to be able to launch this site.
+Following on from this vision, and inspired by the work of other financial open-source initiatives like [FINOS](https://www.finos.org/) and [OS-Climate](https://os-climate.org/), we embarked on a mission to gather like-minded collaborators to create a critical mass of partners to be able to launch this site.
 
 ## Initial Funding - November, 2021
 As with all projects of this nature, we needed a catalyst. This was provided in November, 2021 by the vision and generosity of the Irish Government through its specialist grant department, [Sustainable Finance Skillnet](https://sfskillnet.sustainablefinance.ie/) (SF Skillnet), in partnership with [Sustainable Finance Ireland](https://www.sustainablefinance.ie/) (SFI). See [SF Skillnet Funding Press Release](https://www.sustainablefinance.ie/2021/11/03/sustainable-finance-ireland-provides-funding-for-ground-breaking-esg-data-project-to-first-derivative-and-corlytics/)
