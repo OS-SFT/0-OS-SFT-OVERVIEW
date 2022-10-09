@@ -1,15 +1,6 @@
 **PAGE STATUS**
 ```diff
-! Ready for Peer Review
-- Entire site is private and is EMBARGOED from being public until 13:00-Wed-19-Oct-2022
-```
-
-**PAGE KEY**
-```diff
-+ text in green = Ready to Publish
-! text in orange = Ready for Peer Review
-- text in red = In Development
-# text in grey = notes
+- Final edits by JM: Entire site is set to "PRIVATE" and is EMBARGOED from being public until Dublin 13:00-Wed-19-Oct-2022
 ```
 
 ## Welcome to the First Global Project for Open-Source Sustainable Finance Taxonomy ("OS-SFT")
@@ -41,7 +32,7 @@ We expect that the taxonomy project categories will expand as the marketplace ev
   - Spot Carbon, Carbon Derivatives - On-exchange, OTC, Carbon Offsets, Futures, OTC-Cleared, OTC-Uncleared
   - Bonds with KPIs, e.g. coupon resets based on carbon emissions
   - Swaps with KPIs, e.g. coupon resets and look-back payment resets based on carbon emissions
-- **Phase 4**: Organisational Control Frameworks@ Policies, Processes & Procedures
+- **Phase 4**: Organisational Control Frameworks: Policies, Processes & Procedures
 - **Phase 5**: Organisaitonal Risk Models: credit risk, market risk, collateral risk, liquidity risk, operational risk, etc
 - And so forth ...
 
