@@ -61,6 +61,7 @@ We hope you find this an enjoyable and valuable resource on your sustainability 
 - [6] [PARTNERS](https://github.com/FD-SustainableFinance/l6l-PARTNERS)
 - [7] [NEWS](https://github.com/FD-SustainableFinance/l7l-NEWS)
 - [8] [KEY CONTACTS](https://github.com/FD-SustainableFinance/l8l-KEY-CONTACTS)
+- [9] [INTRODUCTION TO OPEN-SOURCE](add link)
 
 
 ## If you are interested in discussing becoming a partner:
