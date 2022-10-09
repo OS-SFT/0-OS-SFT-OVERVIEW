@@ -40,7 +40,7 @@ We hope you find this an enjoyable and valuable resource on your sustainability 
 
 # Structure of the GitHub Site
 - [0] OS-SFT OVERVIEW (this page)
-  - [0.1] OS-SFT HISTORY
+  - [0.1] [OS-SFT HISTORY](https://github.com/FD-SustainableFinance/-0.1-OS-SFT-OVERVIEW-this-page-/blob/main/README.md)
 - [1] [TAXONOMY FILES](https://github.com/FD-SustainableFinance/l1l-TAXONOMY-FILES)
 - [2] [TAXONOMY TOOLS](https://github.com/FD-SustainableFinance/l2l-TAXONOMY-TOOLS)
 - [3] [TAXONOMY RESEARCH](https://github.com/FD-SustainableFinance/l3l-TAXONOMY-RESEARCH)
