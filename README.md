@@ -38,7 +38,7 @@ We expect that the taxonomy project categories will expand as the marketplace ev
 - **Phase 5**: Organisaitonal Risk Models: credit risk, market risk, collateral risk, liquidity risk, operational risk, etc
 - And so forth ...
 
-Below is further informatIon on the structure of this site and the history of OS-SFT.
+Below is further information on the structure of this site and the history of OS-SFT.
 
 We hope you find this an enjoyable and valuable resource on your sustainability journey!
 --
