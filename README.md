@@ -1,8 +1,3 @@
-**PAGE STATUS**
-```diff
-- Final edits by JM: Entire site is set to "PRIVATE" and is EMBARGOED from being public until Dublin 13:00-Wed-19-Oct-2022
-```
-
 ## Welcome to the First Global Project for Open-Source Sustainable Finance Taxonomy ("OS-SFT")
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
