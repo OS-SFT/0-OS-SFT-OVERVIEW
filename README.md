@@ -57,7 +57,7 @@ We hope you find this an enjoyable and valuable resource on your sustainability 
 - [7] [NEWS](https://github.com/FD-SustainableFinance/l7l-NEWS)
 - [8] [KEY CONTACTS](https://github.com/FD-SustainableFinance/l8l-KEY-CONTACTS)
 - [9] [PROJECT GOVERNANCE](https://github.com/FD-SustainableFinance/09-PROJECT-GOVERNANCE)
-- [10] [INDEX AND GLOSSARY](https://github.com/FD-SustainableFinance/10-INDEX-AND-GLOSSARY/edit/main/README.md)
+- [10] [INDEX AND GLOSSARY](https://github.com/FD-SustainableFinance/10-INDEX-AND-GLOSSARY/blob/main/README.md)
 
 
 ## If you are interested in discussing becoming a partner:
