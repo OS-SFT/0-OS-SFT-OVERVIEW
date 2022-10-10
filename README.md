@@ -6,7 +6,8 @@
 ## Welcome to the First Global Project for Open-Source Sustainable Finance Taxonomy ("OS-SFT")
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Want to become a partner? [Click Here](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
 
 # Objective - Taxonomy Made Simple
 The objective of the project is to provide the marketplace with the following **open-source**, **practical tools** to advance user implementation of sustainable finance data systems into business operating models for new and evolving **taxonomy frameworks, standards, regulations & laws**:
