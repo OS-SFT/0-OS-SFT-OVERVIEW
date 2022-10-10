@@ -46,6 +46,8 @@ We hope you find this an enjoyable and valuable resource on your sustainability 
 # Structure of the GitHub Site
 - [0] [OS-SFT OVERVIEW](https://github.com/FD-SustainableFinance/l0l-OS-SFT-OVERVIEW/blob/main/README.md) (this page)
   - [0.1] [OS-SFT HISTORY](https://github.com/FD-SustainableFinance/-0.1-OS-SFT-OVERVIEW-this-page-/blob/main/README.md)
+  - [0.2] [TAXONOMIES & FINANCIAL LIFE ON EARTH](add link)
+  - [0.3] [INTRODUCTION TO OPEN-SOURCE](add link)
 - [1] [TAXONOMY FILES](https://github.com/FD-SustainableFinance/l1l-TAXONOMY-FILES)
 - [2] [TAXONOMY TOOLS](https://github.com/FD-SustainableFinance/l2l-TAXONOMY-TOOLS)
 - [3] [TAXONOMY RESEARCH](https://github.com/FD-SustainableFinance/l3l-TAXONOMY-RESEARCH)
@@ -54,8 +56,8 @@ We hope you find this an enjoyable and valuable resource on your sustainability 
 - [6] [PARTNERS](https://github.com/FD-SustainableFinance/l6l-PARTNERS)
 - [7] [NEWS](https://github.com/FD-SustainableFinance/l7l-NEWS)
 - [8] [KEY CONTACTS](https://github.com/FD-SustainableFinance/l8l-KEY-CONTACTS)
-- [9] [INTRODUCTION TO OPEN-SOURCE](add link)
-- [10] [PROJECT GOVERNANCE](add link)
+- [9] [PROJECT GOVERNANCE](under development)
+- [I] [Index & Glossary](under development)
 
 
 ## If you are interested in discussing becoming a partner:
