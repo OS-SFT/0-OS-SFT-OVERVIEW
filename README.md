@@ -56,4 +56,4 @@ We hope you find this an enjoyable and valuable resource on your sustainability 
 
 
 ## If you are interested in discussing becoming a partner:
-- [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/l6l-PARTNERS)
+- [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/06-PARTNERS)
