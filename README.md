@@ -8,7 +8,7 @@
 The objective of the project is to provide the marketplace with the following **open-source**, **practical tools** to advance user implementation of sustainable finance data systems into business operating models for new and evolving **taxonomy frameworks, standards, regulations & laws**:
 
 1. **TAXONOMY FILES**: Library of Taxonomy Files - in human and machine readable format - with supporting research
-2. **TAXONOMY TOOLS**: Library of Interactive Tools to Explore and Compare Taxonomy Files - for human interaction
+2. **TAXONOMY TOOLS**: Library of Interactive Tools to Explore, Compare and Download Taxonomy Files - for human interaction
 3. **TAXONOMY RESEARCH PAPERS**: Library of Research Papers providing findings, insights and recommendations on evolving Taxonomies and new ideas on Taxonomies
 4. **TAXONOMY USE CASES**: Library of Real World Use Cases that explain how to solve specific business problems
 
