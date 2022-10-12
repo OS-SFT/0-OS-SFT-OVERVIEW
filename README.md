@@ -7,14 +7,14 @@
 # Objective - Taxonomy Made Simple
 The objective of the project is to provide the marketplace with the following **open-source**, **practical tools** to advance user implementation of sustainable finance data systems into business operating models for new and evolving **taxonomy frameworks, standards, regulations & laws**:
 
-1. **TAXONOMY FILES**: Library of Taxonomy Files - in human and machine readable format
+1. **TAXONOMY FILES**: Library of Taxonomy Files - in human and machine readable format - with supporting research
 2. **TAXONOMY TOOLS**: Library of Interactive Tools to Explore and Compare Taxonomy Files - for human interaction
-3. **TAXONOMY RESEARCH PAPERS**: Library of Research Papers proving findings, insights and recommendations on evolving Taxonomies
+3. **TAXONOMY RESEARCH PAPERS**: Library of Research Papers providing findings, insights and recommendations on evolving Taxonomies and new ideas on Taxonomies
 4. **TAXONOMY USE CASES**: Library of Real World Use Cases that explain how to solve specific business problems
 
 ## Example: TCFD, EBA and ISSB
 1. **TAXONOMY FILES**: TCFD (Framework); EBA Pillar 3 (Regulation); ISSB (Standard)
-2. **TAXONOMY TOOLS**: Pairwise Taxonomy Mappings for TCFD-EBA; TCFD-ISSB; EBA-ISSB
+2. **TAXONOMY TOOLS**: Taxonomy Mappings for the "Doubles" TCFD-EBA, TCFD-ISSB, EBA-ISSB and the "Triple" TCFD-EBA-ISSB"
 3. **TAXONOMY RESEARCH PAPERS**: Research Paper presenting findings, insights and recommendations of the Mappings Analysis
 4. **TAXONOMY USE CASE**: Use Case of End-to-End Lending Workflow under TCFD-EBA-ISSB, where:
     - TCFD is used as part of the Decision Criteria by a Line-of-Business for the Lending;
