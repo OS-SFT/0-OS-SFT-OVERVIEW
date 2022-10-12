@@ -33,11 +33,6 @@ We expect that the taxonomy project categories will expand as the marketplace ev
 - **Phase 5**: Organisaitonal Risk Models: credit risk, market risk, collateral risk, liquidity risk, operational risk, etc
 - And so forth ...
 
-Below is further information on the structure of this site and the history of OS-SFT.
-
-We hope you find this an enjoyable and valuable resource on your sustainability journey!
---
-
 # Structure of the GitHub Site
 - [0] [OS-SFT OVERVIEW](https://github.com/FD-SustainableFinance/l0l-OS-SFT-OVERVIEW/blob/main/README.md) (this page)
   - [0.1] [OS-SFT HISTORY](https://github.com/FD-SustainableFinance/-0.1-OS-SFT-OVERVIEW-this-page-/blob/main/README.md)
@@ -54,6 +49,6 @@ We hope you find this an enjoyable and valuable resource on your sustainability 
 - [9] [PROJECT GOVERNANCE](https://github.com/FD-SustainableFinance/09-PROJECT-GOVERNANCE)
 - [10] [INDEX AND GLOSSARY](https://github.com/FD-SustainableFinance/10-INDEX-AND-GLOSSARY/blob/main/README.md)
 
-
-## If you are interested in discussing becoming a partner:
-- [Please follow this link to the Partner Page](https://github.com/FD-SustainableFinance/06-PARTNERS)
+We hope you find this an enjoyable and valuable resource on your sustainability journey!
+--
+## If you are interested in discussing becoming a partner: [Please go to the Partner Page](https://github.com/FD-SustainableFinance/06-PARTNERS)
