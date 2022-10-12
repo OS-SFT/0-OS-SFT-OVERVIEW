@@ -34,6 +34,8 @@ We expect that the taxonomy project categories will expand as the marketplace ev
 - And so forth ...
 
 # Contents of the GitHub Site
+To get this list anywhere at anytime just search [CONTENTS](https://github.com/FD-SustainableFinance/CONTENTS) under repositories.
+
 - [0] [OS-SFT OVERVIEW](https://github.com/FD-SustainableFinance/l0l-OS-SFT-OVERVIEW/blob/main/README.md) (this page)
   - [0.1] [OS-SFT HISTORY](https://github.com/FD-SustainableFinance/-0.1-OS-SFT-OVERVIEW-this-page-/blob/main/README.md)
   - [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/FD-SustainableFinance/l0.2l-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH/blob/main/README.md)
