@@ -64,7 +64,7 @@ We expect that the taxonomy project categories will expand as the marketplace ev
   - Bonds with KPIs, e.g. coupon resets based on carbon emissions
   - Swaps with KPIs, e.g. coupon resets and look-back payment resets based on carbon emissions
 - **Phase 4**: Organisational Control Frameworks: Policies, Processes & Procedures
-- **Phase 5**: Organisaitonal Risk Models: credit risk, market risk, collateral risk, liquidity risk, operational risk, etc
+- **Phase 5**: Organisational Risk Models: credit risk, market risk, collateral risk, liquidity risk, operational risk, etc
 - And so forth ...
 
 # Contents of the GitHub Site
