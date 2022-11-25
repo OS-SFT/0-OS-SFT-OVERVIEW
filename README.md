@@ -25,7 +25,7 @@
 
 [5] [TAXONOMY BACKLOG](https://github.com/OS-SFT/05-TAXONOMY-BACKLOG)
 
-[6] [PARTNERS](https://github.com/OS-SFT/06-PARTNERS)
+[6] [PARTNERS](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)
 
 [7] [NEWS](https://github.com/OS-SFT/07-NEWS)
 
@@ -79,7 +79,7 @@ To get this list anywhere at anytime just search [CONTENTS](https://github.com/O
 - [3] [TAXONOMY RESEARCH PAPERS](https://github.com/OS-SFT/03-TAXONOMY-RESEARCH-PAPERS)
 - [4] [TAXONOMY USE CASES](https://github.com/OS-SFT/04-TAXONOMY-USE-CASES)
 - [5] [TAXONOMY BACKLOG](https://github.com/OS-SFT/05-TAXONOMY-BACKLOG)
-- [6] [PARTNERS](https://github.com/OS-SFT/06-PARTNERS)
+- [6] [PARTNERS](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)
 - [7] [NEWS](https://github.com/OS-SFT/07-NEWS)
 - [8] [KEY CONTACTS](https://github.com/OS-SFT/08-KEY-CONTACTS)
 - [9] [PROJECT GOVERNANCE](https://github.com/OS-SFT/09-PROJECT-GOVERNANCE)
