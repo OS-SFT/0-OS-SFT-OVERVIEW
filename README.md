@@ -1,7 +1,7 @@
 ## Welcome to the First Global Project for Open-Source Sustainable Finance Taxonomy ("OS-SFT")
 
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
-**Navigate: [Become a partner?](https://github.com/OS-SFT/l6l-PARTNERS)**
+**Navigate: [Become a partner?](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)**
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 <details><summary>CONTENTS</summary>
@@ -87,4 +87,4 @@ To get this list anywhere at anytime just search [CONTENTS](https://github.com/O
 
 We hope you find this an enjoyable and valuable resource on your sustainability journey!
 --
-## If you are interested in discussing becoming a partner: [Please go to the Partner Page](https://github.com/OS-SFT/06-PARTNERS)
+## If you are interested in discussing becoming a partner: [Please go to the Partner Page](https://github.com/OS-SFT/06-COLLABORATORS-PARTNERS)
