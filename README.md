@@ -7,13 +7,13 @@
 <details><summary>CONTENTS</summary>
 <p>
 
-[0] [OS-SFT OVERVIEW](https://github.com/OS-SFT/0-OS-SFT-OVERVIEW/blob/main/README.md)
+[0] [OS-SFT OVERVIEW](https://github.com/OS-SFT/0-OS-SFT-OVERVIEW)
 
-- [0.1] [OS-SFT HISTORY](https://github.com/OS-SFT/0.1-OS-SFT-OVERVIEW-this-page-/blob/main/README.md)
+- [0.1] [OS-SFT HISTORY](https://github.com/OS-SFT/0.1-OS-SFT-OVERVIEW-this-page-)
 
-- [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/OS-SFT/0.2-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH/blob/main/README.md)
+- [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/OS-SFT/0.2-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH)
 
-- [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/OS-SFT/0.3-INTRODUCTION-TO-OPEN-SOURCE/blob/main/README.md)
+- [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/OS-SFT/0.3-INTRODUCTION-TO-OPEN-SOURCE)
 
 [1] [TAXONOMY FILES](https://github.com/OS-SFT/01-TAXONOMY-FILES)
 
@@ -33,7 +33,7 @@
 
 [9] [PROJECT GOVERNANCE](https://github.com/OS-SFT/09-PROJECT-GOVERNANCE)
 
-[10] [INDEX AND GLOSSARY](https://github.com/OS-SFT/10-INDEX-AND-GLOSSARY/blob/main/README.md)
+[10] [INDEX AND GLOSSARY](https://github.com/OS-SFT/10-INDEX-AND-GLOSSARY)
 </p>
 </details>
 
@@ -70,10 +70,10 @@ We expect that the taxonomy project categories will expand as the marketplace ev
 # Contents of the GitHub Site
 To get this list anywhere at anytime just search [CONTENTS](https://github.com/OS-SFT/CONTENTS) under repositories.
 
-- [0] [OS-SFT OVERVIEW](https://github.com/OS-SFT/l0l-OS-SFT-OVERVIEW/blob/main/README.md)
-  - [0.1] [OS-SFT HISTORY](https://github.com/OS-SFT/-0.1-OS-SFT-OVERVIEW-this-page-/blob/main/README.md)
-  - [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/OS-SFT/l0.2l-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH/blob/main/README.md)
-  - [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/OS-SFT/0.3-INTRODUCTION-TO-OPEN-SOURCE/blob/main/README.md)
+- [0] [OS-SFT OVERVIEW](https://github.com/OS-SFT/0-OS-SFT-OVERVIEW)
+  - [0.1] [OS-SFT HISTORY](https://github.com/OS-SFT/0.1-OS-SFT-OVERVIEW-this-page-)
+  - [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/OS-SFT/0.2-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH)
+  - [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/OS-SFT/0.3-INTRODUCTION-TO-OPEN-SOURCE)
 - [1] [TAXONOMY FILES](https://github.com/OS-SFT/01-TAXONOMY-FILES)
 - [2] [TAXONOMY TOOLS](https://github.com/OS-SFT/02-TAXONOMY-TOOLS)
 - [3] [TAXONOMY RESEARCH PAPERS](https://github.com/OS-SFT/03-TAXONOMY-RESEARCH-PAPERS)
@@ -83,7 +83,7 @@ To get this list anywhere at anytime just search [CONTENTS](https://github.com/O
 - [7] [NEWS](https://github.com/OS-SFT/07-NEWS)
 - [8] [KEY CONTACTS](https://github.com/OS-SFT/08-KEY-CONTACTS)
 - [9] [PROJECT GOVERNANCE](https://github.com/OS-SFT/09-PROJECT-GOVERNANCE)
-- [10] [INDEX AND GLOSSARY](https://github.com/OS-SFT/10-INDEX-AND-GLOSSARY/blob/main/README.md)
+- [10] [INDEX AND GLOSSARY](https://github.com/OS-SFT/10-INDEX-AND-GLOSSARY)
 
 We hope you find this an enjoyable and valuable resource on your sustainability journey!
 --
