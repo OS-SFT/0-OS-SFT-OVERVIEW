@@ -15,7 +15,7 @@
 
 - [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/OS-SFT/0.3-INTRODUCTION-TO-OPEN-SOURCE)
 
-[1] [TAXONOMY FILES](https://github.com/OS-SFT/01-TAXONOMY-FILES)
+[1] [TAXONOMY FILES](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main)
 
 [2] [TAXONOMY TOOLS](https://github.com/OS-SFT/02-TAXONOMY-TOOLS)
 
