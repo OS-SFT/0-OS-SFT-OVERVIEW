@@ -74,7 +74,7 @@ To get this list anywhere at anytime just search [CONTENTS](https://github.com/O
   - [0.1] [OS-SFT HISTORY](https://github.com/OS-SFT/0.1-OS-SFT-OVERVIEW-this-page-)
   - [0.2] [TAXONOMIES, FINANCIAL LIFE ON EARTH & THE BIG GREEN SHORT](https://github.com/OS-SFT/0.2-TAXONOMIES-FINANCIAL-LIFE-ON-EARTH-AND-THE-BIG-GREEN-SHORT)
   - [0.3] [INTRODUCTION TO OPEN-SOURCE](https://github.com/OS-SFT/0.3-INTRODUCTION-TO-OPEN-SOURCE)
-- [1] [TAXONOMY FILES](https://github.com/OS-SFT/01-TAXONOMY-FILES)
+- [1] [TAXONOMY FILES](https://github.com/OS-SFT/Taxonomy-Mappings-Library/tree/main)
 - [2] [TAXONOMY TOOLS](https://github.com/OS-SFT/02-TAXONOMY-TOOLS)
 - [3] [TAXONOMY RESEARCH PAPERS](https://github.com/OS-SFT/03-TAXONOMY-RESEARCH-PAPERS)
 - [4] [TAXONOMY USE CASES](https://github.com/OS-SFT/04-TAXONOMY-USE-CASES)
